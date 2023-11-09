@@ -16,8 +16,9 @@ If you have any problem using the following setup operations please go to [Influ
   > influxd
 ```
 The first time you open the influxdb database, Windows will pop out a permission dialog, please confirm that you had clicked allow. 
+
 2. With influxDB running, visit [localhost:8086](http://localhost:8086/).
-3. Click **Get Started **and set up your initial user.
+3. Click **Get Started** and set up your initial user.
     1. Enter a **Username** for your initial user.
     2. Enter a **Password** and **Confirm Password** for your user.
     3. Enter your initial **Organization Name**.
